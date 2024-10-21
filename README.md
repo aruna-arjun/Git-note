@@ -1,23 +1,54 @@
 # Git-note
-Git info
+>Git:-
 <br>
-Git and GitHub are essential tools for version control and collaboration in software development. Here's a brief overview of both:
-
-Git
-Git is a distributed version control system that allows developers to track changes in source code during software development. It was created by Linus Torvalds in 2005. Some key features of Git include:
-
-Version Control: Git keeps a record of all changes made to files, allowing you to revert to previous versions if needed.
-Branching and Merging: You can create branches to work on features or bug fixes independently and merge them back into the main codebase.
-Distributed System: Every developer has a local copy of the entire project history, which enables offline work and independent code contributions.
-Commit History: Each change (commit) is logged, showing who made the changes and when. This helps in tracking the progress and debugging issues.
-Staging Area: Changes can be added to a staging area before committing, allowing for better control over what changes are included in a commit.
-Basic Git Commands
-git init: Initializes a new Git repository.
-git clone [URL]: Clones a repository from a remote source (e.g., GitHub).
-git add [file]: Adds files to the staging area.
-git commit -m "message": Commits changes in the staging area with a descriptive message.
-git status: Shows the status of the working directory and staging area.
-git push: Pushes committed changes to a remote repository.
-git pull: Fetches changes from a remote repository and merges them.
-git branch: Lists, creates, or deletes branches.
-git merge [branch]: Merges a specified branch into the current branch.gi
+-Git is a distributed version control system. 
+<br>
+-It allows developers to track changes in source code during software development. 
+<br>
+>Git Commands:-
+<br>
+1. git init: Initializes a new Git repository.
+<br>    
+2. git clone [URL]: Clones a repository from a remote source
+<br>
+   (e.g., git clone https://github.com/aruna-arjun/git-note.git).
+<br>
+3. git add [file]: Adds files to the staging area.  
+<br>
+   (e.g., git add index.html
+   git add .)
+<br>
+4. git commit -m "message": Commits changes in the staging area with a descriptive message. 
+<br>
+(e.g., git commit -m "Added new feature to index.html")
+<br>
+5. git status: Shows the status of the working directory and staging area.
+<br>
+6. git push: Pushes committed changes to a remote repository.
+<br>
+(e.g., git push origin main )
+<br>
+7. git pull: Fetches changes from a remote repository and merges them.
+<br>
+(e.g., git pull origin main )
+<br>
+8. git branch: Lists, creates, or deletes branches.
+<br>
+(e.g.,  git branch feature-branch)
+<br>
+9. git merge [branch]: Merges a specified branch into the current branch.
+<br>
+(e.g., git merge feature-branch)
+<br>
+10. git status: Shows the status of changes as untracked, modified, or staged.
+<br>
+(e.g., git status )
+<br>
+11. git log:- Shows a list of all commits made in the repository, including the commit hash, author, date, and commit message.
+<br>
+(e.g., git log)
+<br>
+12. git pull <remote_name> <branch_name>:- Fetches and integrates changes from the remote repository to the current branch. It combines git fetch and git merge.
+<br>
+(e.g., git pull origin main)
+ 
