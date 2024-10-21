@@ -20,4 +20,4 @@ git status: Shows the status of the working directory and staging area.
 git push: Pushes committed changes to a remote repository.
 git pull: Fetches changes from a remote repository and merges them.
 git branch: Lists, creates, or deletes branches.
-git merge [branch]: Merges a specified branch into the current branch.
+git merge [branch]: Merges a specified branch into the current branch.gi
