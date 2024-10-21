@@ -10,7 +10,6 @@
 
 <b>Git Commands:- </b>
    <br>
-
    1. git init: Initializes a new Git repository.
    <br>    
    2. git clone [URL]: Clones a repository from a remote source
