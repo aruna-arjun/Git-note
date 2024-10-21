@@ -2,7 +2,6 @@
   
 <b>Git:- </b>
   <br>
-
   -Git is a distributed version control system. 
    <br>
   -It allows developers to track changes in source code during software development. 
@@ -10,7 +9,6 @@
 
 <b>Git Commands:- </b>
    <br>
-
    1. git init: Initializes a new Git repository.
    <br>    
    2. git clone [URL]: Clones a repository from a remote source
@@ -55,4 +53,6 @@
    12. git pull <remote_name> <branch_name>:- Fetches and integrates changes from the remote repository to the current branch. It combines git fetch and git merge.
    <br>
    (e.g., git pull origin main)
+
+   Thank you!
 
