@@ -1,6 +1,6 @@
 
 <!-- Author Aruna -->
-```<h1> Hello from HTML </h1>```
+```html <h1> Hello from HTML </h1>
 
 
 * **What is Git?:**  Consider adding a short explanation of Git in your preferred language for broader accessibility. 
@@ -11,7 +11,7 @@
 * **Why use Git?** Briefly explain the benefits of using Git for version control, such as easy collaboration, tracking changes, and reverting to previous versions.
 * **When to use each command?**  For each command, add a short sentence about the ideal situation to use it. 
     * Example for `git init`:  "Use this command to create a new Git repository for your project."
-
+ 
 **Here's the improved version:**
 
 **Git:**
