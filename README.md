@@ -1,5 +1,9 @@
 
-* **Git:**  Consider adding a short explanation of Git in your preferred language for broader accessibility. 
+<!-- Author Aruna -->
+```<h1> Hello from HTML </h1>```
+
+
+* **What is Git?:**  Consider adding a short explanation of Git in your preferred language for broader accessibility. 
 * **Duplicate `git status`:** You've mentioned `git status` twice. Remove the duplicate entry at number 10.
 
 **Engaging Questions:**
@@ -44,3 +48,6 @@
 11. **git log:** Shows a list of all commits made in the repository, including the commit hash, author, date, and commit message (e.g., `git log`).
 
 12. **git pull <remote_name> <branch_name>:** Fetches and integrates changes from the remote repository to the current branch. This combines the functionality of `git fetch` and `git merge` (e.g., `git pull origin main`).
+
+
+
