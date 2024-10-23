@@ -1,6 +1,6 @@
 
 <!-- Author Aruna -->
-```html <h1> Hello from HTML </h1>
+```html <h1> Hello from HTML </h1>```
 
 
 * **What is Git?:**  Consider adding a short explanation of Git in your preferred language for broader accessibility. 
